@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Computer Science and Engineering student at CEG - Anna University<br>I'm a passionate Kotlin app developer and interest in cybersecurity and pentesting<br>I'm always excited to learn new technologies and explore the world of software development and security<br><br>
+I'm a Computer Science and Engineering student at CEG - Anna University<br>I'm a passionate Kotlin app developer and interest in cybersecurity and pentesting<br>I'm always excited to learn new technologies and explore the world of software development and security<br><br>
 
 
 ## 🌐 Socials:
